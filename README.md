@@ -20,7 +20,7 @@
 - Experience with the Angular framework and REST API integration.
 - Familiar with testing tools like Swagger and Jasmine.
 - Currently, honing my skills in C# for Back-End development.
-- Currently learning Python as part of the Analysis and Systems Development at UFCA.
+- Currently learning Python as part of the Analysis and Systems Development course at UFCA.
 
 
 
