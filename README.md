@@ -6,10 +6,12 @@
 - Enrolled in the Analysis and Systems Development course at UFCA.
 
 
+
 💼 Professional Experience:
 
 - I have exclusively worked on personal projects.
-- From designing in Figma to achieving pixel-perfect implementation, I am dedicated to creating visual and functional solutions.
+- From designing in Figma to achieving implementation, I am dedicated to creating visual and functional solutions.
+
 
 
 💻 Technologies and Skills:
@@ -18,6 +20,8 @@
 - Experience with the Angular framework and REST API integration.
 - Familiar with testing tools like Swagger and Jasmine.
 - Currently, honing my skills in C# for Back-End development.
+- Currently learning Python as part of the Analysis and Systems Development at UFCA.
+
 
 
 🔄 Agile Methodologies:
@@ -25,10 +29,12 @@
 - Familiar with Agile methodologies such as Scrum and Kanban.
 
 
+
 🎨 Design and Accessibility:
 
 - Knowledge of UX/UI design concepts (SENAl).
 - Committed to web accessibility and performance optimization (freeCodeCamp).
+
 
 
 🤝 Interpersonal Skills:
