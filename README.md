@@ -17,7 +17,7 @@
  
 <br>
  
-### Eis algumas das minhas redes sociais!
+### Eis alguns de meus canais de comunicação!
  
 <div> 
   <a href = "mailto:gabriel.vaskon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
